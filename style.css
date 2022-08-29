@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  width: 100%;
+	text-align: left;
+	padding: 20px;
+	font-family: sans-serif;
+}
+
+button {
+	padding: 5px;
+	border-radius: 10px;
+	background-color: #ffff;
+}
+
+h2 {
+	display: table-cell;
+	background-color: #ffff;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+#alert {
+	display: table-cell;
+	background-color: #ffff;
+	padding: 5px;
+	border-radius: 5px;
+}
